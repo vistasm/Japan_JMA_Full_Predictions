@@ -20,6 +20,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -30,6 +35,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -40,6 +50,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -50,6 +65,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -67,6 +87,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -77,6 +102,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -87,6 +117,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -97,6 +132,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -114,6 +154,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -124,6 +169,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -134,6 +184,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -144,6 +199,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -161,6 +221,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -171,6 +236,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -181,6 +251,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -191,6 +266,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -208,6 +288,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -218,6 +303,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -228,6 +318,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -238,6 +333,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -255,6 +355,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -265,6 +370,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -275,6 +385,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -285,6 +400,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -302,6 +422,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -312,6 +437,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -322,6 +452,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -332,6 +467,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -349,6 +489,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -359,6 +504,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -369,6 +519,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -379,6 +534,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -396,6 +556,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -406,6 +571,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -416,6 +586,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -426,6 +601,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -443,6 +623,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -453,6 +638,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -463,6 +653,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -473,6 +668,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -490,6 +690,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -500,6 +705,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -510,6 +720,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -520,6 +735,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -537,6 +757,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -547,6 +772,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -557,6 +787,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -567,6 +802,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -584,6 +824,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -594,6 +839,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -604,6 +854,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -614,6 +869,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -631,6 +891,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -641,6 +906,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -651,6 +921,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -661,6 +936,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -678,6 +958,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -688,6 +973,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -698,6 +988,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -708,6 +1003,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -725,6 +1025,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -735,6 +1040,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -745,6 +1055,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -755,6 +1070,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -772,6 +1092,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -782,6 +1107,11 @@
             "2.0pct": false,
             "5.0pct": true,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -792,6 +1122,11 @@
             "2.0pct": true,
             "5.0pct": true,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -802,6 +1137,11 @@
             "2.0pct": false,
             "5.0pct": true,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -819,6 +1159,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -829,6 +1174,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -839,6 +1189,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -849,6 +1204,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -866,6 +1226,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -876,6 +1241,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -886,6 +1256,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -896,6 +1271,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -913,6 +1293,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -923,6 +1308,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -933,6 +1323,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -943,6 +1338,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -960,6 +1360,11 @@
             "2.0pct": true,
             "5.0pct": true,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -970,6 +1375,11 @@
             "2.0pct": true,
             "5.0pct": true,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -980,6 +1390,11 @@
             "2.0pct": true,
             "5.0pct": true,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -990,6 +1405,11 @@
             "2.0pct": true,
             "5.0pct": true,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1007,6 +1427,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1017,6 +1442,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1027,6 +1457,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1037,6 +1472,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1054,6 +1494,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1064,6 +1509,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1074,6 +1524,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1084,6 +1539,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1101,6 +1561,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1111,6 +1576,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1121,6 +1591,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1131,6 +1606,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1148,6 +1628,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1158,6 +1643,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1168,6 +1658,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1178,6 +1673,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1195,6 +1695,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1205,6 +1710,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1215,6 +1725,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1225,6 +1740,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1242,6 +1762,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1252,6 +1777,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1262,6 +1792,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1272,6 +1807,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1289,6 +1829,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1299,6 +1844,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1309,6 +1859,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1319,6 +1874,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }
@@ -1336,6 +1896,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T2": {
@@ -1346,6 +1911,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-05T23:59:59Z"
           }
         },
         "T3": {
@@ -1356,6 +1926,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         },
         "T4": {
@@ -1366,6 +1941,11 @@
             "2.0pct": false,
             "5.0pct": false,
             "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-05-04T00:00:00Z",
+            "valid_to": "2026-05-06T23:59:59Z"
           }
         }
       }

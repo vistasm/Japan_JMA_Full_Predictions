@@ -2,7 +2,7 @@
   "prediction_date": "2026-05-11",
   "config": "JMA_Full",
   "data_hashes": {
-    "usgs": "97d467c92ca94181",
+    "usgs": "311e8bcc0ee840e8",
     "jma": "3bbe2e3577e577d5",
     "gps": "72c13b6a1d1bfb93"
   },
@@ -579,7 +579,7 @@
           }
         },
         "T3": {
-          "probability": 0.290612,
+          "probability": 0.290611,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
